@@ -10,14 +10,15 @@ By leveraging machine learning, schools and higher learning institutions can ide
 ---
 
 ## 👥 Team Members
-1. M.K Thobejane- 221987223 (Leader)  
-2. Member 2  
-3. Member 3  
-4. Member 4  
-5. Member 5  
-6. Member 6  
-7. Member 7  
-8. Member 8  
+- 221987223- M.K Thobejane (Group Leader)
+- 221891439- S.R Kouane (Problem Definition)
+- 222041560- I Mukwevho (Business Objectives & Success Criteria)
+- 223879819- R.C Kekana (AI Approach)
+- 221847421- A Thuli (Data & Model)
+- 222459433- A Dumezulu (Advanced Features)
+- 218253524- A.B Mabona (Python Implementation)
+- 223511323- T Phale (Poster Designer)
+- 222755903- (Presentation Designer)
 
 ---
 
