@@ -39,7 +39,7 @@ By leveraging machine learning, schools and higher learning institutions can ide
 ---
 
 ## 📊 Dataset
-We used the **Students Performance dataset** from Kaggle, which includes:  
+We used the <a href="https://github.com/MindPath-Learning-Systems/MindPath-Learning-Systems/blob/main/StudentsPerformance.csv">Dataset</a> from Kaggle, which includes:  
 - Gender  
 - Race/Ethnicity  
 - Parental Education Level  
