@@ -67,14 +67,3 @@ We used the <a href="https://github.com/MindPath-Learning-Systems/MindPath-Learn
    - Root Mean Squared Error (RMSE)  
 
 ---
-
-## 📂 Repository Structure
-
-
----
-
-## 🚀 How to Run
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/<your-org>/MindPath-Learning-Systems.git
-   cd MindPath-Learning-Systems
