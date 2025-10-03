@@ -5,4 +5,8 @@ scikit-learn
 matplotlib
 seaborn
 plotly
+shap
 xgboost
+tensorflow
+textblob
+wordcloud
