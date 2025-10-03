@@ -16,7 +16,7 @@ import os
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Student Performance Predictor",
+    page_title="AI Student Math Score Predictor",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -39,7 +39,7 @@ if 'shap_explainer' not in st.session_state:
     st.session_state.shap_explainer = None
 
 # Main title
-st.title("🎓 AI-Powered Student Math Performance Prediction System")
+st.title("🎓 MindPath Learning Systems")
 st.markdown("### Empowering Educators with Data-Driven Insights")
 
 # Sidebar navigation
@@ -73,7 +73,7 @@ df = st.session_state.df
 
 # HOME PAGE
 if page == "Home":
-    st.header("Welcome to the AI Student Performance Prediction System")
+    st.header("Welcome to the AI Student Math Score Prediction System")
     
     col1, col2 = st.columns(2)
     
