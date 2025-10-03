@@ -30,11 +30,25 @@ By leveraging machine learning, schools and higher learning institutions can ide
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- **Jupyter Notebook**  
-- **GitHub Project Tool** for collaboration  
-- **Canva/PowerPoint** for poster design  
+## 🚀 Features
+- 📊 **Data Overview**: Interactive exploration of student dataset  
+- 🤖 **Model Training**: Train ML & DL models on student performance data  
+- 🔮 **Predictions**: Enter student info and predict math scores instantly  
+- 📈 **Model Evaluation**: Compare accuracy of ML & DL approaches  
+- 🔍 **Explainability (SHAP)**: Understand which factors influence predictions  
+- 📅 **Time Series Analysis**: Track performance trends  
+- 💬 **NLP Analysis**: Sentiment analysis of student feedback  
+- 🤖 **Chatbot**: Ask questions about performance insights  
+- 📥 **Export Results**: Download predictions & model reports
+
+  ---
+
+## 🛠️ Tech Stack
+- **Frontend**: Streamlit  
+- **Backend Models**: scikit-learn, XGBoost, TensorFlow (CPU)  
+- **Visualization**: Plotly, Matplotlib, Seaborn  
+- **NLP**: TextBlob, WordCloud  
+- **Explainability**: SHAP  
 
 ---
 
@@ -51,19 +65,8 @@ We used the <a href="https://github.com/MindPath-Learning-Systems/MindPath-Learn
 
 ---
 
-## 🤖 Machine Learning Approach
-1. **Data Preprocessing**  
-   - Handle categorical variables (gender, lunch, etc.).  
-   - Normalize and clean dataset.  
+## 🌍 MindPath Learning Systems App
 
-2. **Model Training**  
-   - Linear Regression  
-   - Random Forest Regressor  
-   - Gradient Boosting Regressor  
-
-3. **Evaluation**  
-   - R² Score  
-   - Mean Absolute Error (MAE)  
-   - Root Mean Squared Error (RMSE)  
+When deployed on Streamlit Cloud: <a href="https://mindpath-learning-systems-eexzjf46g2dmpfxejhfoga.streamlit.app/">MindPath Learning Systems App</a>
 
 ---
